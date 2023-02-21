@@ -1,4 +1,4 @@
-# array-functions-in-js
+# Array functions in JS
 
 List of all the Array functions in JavaScript:
 
